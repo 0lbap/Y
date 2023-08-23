@@ -1,0 +1,29 @@
+{
+  "trends": [
+    {
+      "name": "Aespa",
+      "type": "music",
+      "posts": "180 k"
+    },
+    {
+      "name": "Barbie",
+      "type": "movie",
+      "posts": "94 k"
+    },
+    {
+      "name": "#ELDENRING",
+      "type": "gaming",
+      "posts": "46 k"
+    },
+    {
+      "name": "Space Tourism",
+      "type": "technology",
+      "posts": "62 k"
+    },
+    {
+      "name": "#SustainableFashion",
+      "type": "fashion",
+      "posts": "115 k"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "sidenav": {
+    "home": "Home",
+    "explore": "Explore",
+    "notifications": "Notifications",
+    "messages": "Messages",
+    "lists": "Lists",
+    "bookmarks": "Bookmarks",
+    "communities": "Communities",
+    "verified": "Verified",
+    "profile": "Profile",
+    "more": "More"
+  },
+  "home": {
+    "home": "Home",
+    "for_you": "For you",
+    "subscriptions": "Subscriptions",
+    "what_is_happening": "What is happening?!",
+    "search": "Search",
+    "subscribe_to_premium": "Subscribe to Premium",
+    "subscribe_to_premium_desc": "Subscribe to unlock new features and if eligible, receive a share of ads revenue.",
+    "trends_for_you": "Trends for you",
+    "who_to_follow": "Who to follow",
+    "terms_of_service": "Terms of Service",
+    "privacy_policy": "Privacy Policy",
+    "cookie_policy": "Cookie Policy",
+    "accessibility": "Accessibility",
+    "ads_info": "Ads info",
+    "more": "More..."
+  },
+  "buttons": {
+    "post": "Post",
+    "search": "Search",
+    "show_more": "Show more",
+    "follow": "Follow",
+    "subscribe": "Subscribe"
+  },
+  "trends": {
+    "posts": "posts",
+    "trends": "Trends",
+    "music": "Music",
+    "movie": "Movie",
+    "sport": "Sport",
+    "gaming": "Gaming",
+    "technology": "Technology",
+    "fashion": "Fashion"
+  },
+  "page_not_found": "Hmm...this page doesn’t exist. Try searching for something else."
+}

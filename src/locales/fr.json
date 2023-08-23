@@ -1,0 +1,49 @@
+{
+  "sidenav": {
+    "home": "Accueil",
+    "explore": "Explorer",
+    "notifications": "Notifications",
+    "messages": "Messages",
+    "lists": "Listes",
+    "bookmarks": "Signets",
+    "communities": "Communautés",
+    "verified": "Certifié",
+    "profile": "Profil",
+    "more": "Plus"
+  },
+  "home": {
+    "home": "Accueil",
+    "for_you": "Pour vous",
+    "subscriptions": "Abonnements",
+    "what_is_happening": "Quoi de neuf ?!",
+    "search": "Chercher",
+    "subscribe_to_premium": "Abonnez-vous à Premium",
+    "subscribe_to_premium_desc": "Abonnez-vous pour profiter de nouvelles fonctionnalités et recevoir une part des revenus publicitaires si vous respectez les critères.",
+    "trends_for_you": "Tendances pour vous",
+    "who_to_follow": "Suggestions",
+    "terms_of_service": "Conditions d’utilisation",
+    "privacy_policy": "Politique de Confidentialité",
+    "cookie_policy": "Politique relative aux cookies",
+    "accessibility": "Accessibilité",
+    "ads_info": "Informations sur les publicités",
+    "more": "Plus..."
+  },
+  "buttons": {
+    "post": "Poster",
+    "search": "Chercher",
+    "show_more": "Voir plus",
+    "follow": "Suivre",
+    "subscribe": "Souscrire"
+  },
+  "trends": {
+    "posts": "posts",
+    "trends": "Tendances",
+    "music": "Musique",
+    "movie": "Film",
+    "sport": "Sport",
+    "gaming": "Gaming",
+    "technology": "Technologie",
+    "fashion": "Mode"
+  },
+  "page_not_found": "Hum... Cette page n'existe pas. Essayez de rechercher autre chose."
+}
